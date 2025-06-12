@@ -10,7 +10,7 @@ EMBED_MODEL = "all-MiniLM-L6-v2"
 OLLAMA_MODEL = "mistral"  # Change to llama2, gemma, etc.
 
 embedder = SentenceTransformer(EMBED_MODEL)
-chroma_client = chromadb.Client()
+chroma_client = chromadb.PersistentClient(path="chroma_storage")
 collection = chroma_client.get_or_create_collection(name=COLLECTION_NAME)
 
 # === Load and Embed Text ===
@@ -24,10 +24,19 @@ def load_and_store_text(file_path, chunk_size=500):
     print(f"✅ Loaded and embedded {len(chunks)} chunks.")
 
 # === Retrieve Relevant Context ===
-def retrieve_context(query, top_k=3):
+def retrieve_context(query, source_filter=None, top_k=10):
     query_embedding = embedder.encode([query]).tolist()[0]
-    results = collection.query(query_embeddings=[query_embedding], n_results=top_k)
-    return results["documents"][0]
+    kwargs = {"query_embeddings": [query_embedding], "n_results": top_k}
+    if source_filter:
+        kwargs["where"] = {"source": source_filter}
+    results = collection.query(**kwargs)
+    docs = results["documents"][0]
+    sources = results["metadatas"][0]
+
+    print("🔍 Retrieved Chunks:")
+    for i, (doc, meta) in enumerate(zip(docs, sources)):
+        print(f"Chunk {i+1} from {meta.get('source')}: {doc[:80]}...")
+    return docs
 
 # === Send to LLM ===
 def ask_ollama_llm(query, context, model=OLLAMA_MODEL):

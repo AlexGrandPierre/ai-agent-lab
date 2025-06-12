@@ -1,0 +1,507 @@
+
+[2025-06-12T13:18:45.076241]
+Model: mistral
+Prompt (Truncated):
+Summarize the following document in bullet points. Then provide a two-sentence analysis:
+
+Grand’Pierre
+ 
+1
+ 
+Alexandre
+ 
+Grand’Pierre
+ 
+Current
+ 
+Topics
+ 
+in
+ 
+Epistemology
+ 
+05/07/2025
+ 
+ 
+ 
+ 
+ 
+SOPHISTicated
+:
+ 
+How
+ 
+the
+ 
+Fundamental
+ 
+Understanding
+ 
+of
+ 
+Evidence
+ 
+Shapes
+ 
+our
+ 
+Rational
+ 
+World
+ 
+ 
+ 
+Section
+ 
+1:
+ 
+Introduction
+ 
+There
+ 
+have
+ 
+been
+ 
+many
+ 
+efforts
+ 
+to
+ 
+shift
+ 
+our
+ 
+understanding
+ 
+of
+ 
+belief
+ 
+justification
+ 
+away
+ 
+from
+ 
+the
+ 
+dominant
+ 
+view
+ 
+of
+ 
+evidentialism...
+Response:
+1. Alexandre Grand'Pierre proposes a reconceptualization of belief justification, arguing that any normative model must accurately reflect the cognitive realities of its subjects.
+2. He introduces Universal Epistemic Partiality (UEP), a framework that incorporates both epistemic and non-epistemic influences on human belief formation to provide a more accurate account of belief justification and rationality.
+3. Non-epistemic influence primarily manifests as cognitive impulses or expressions of fundamental physiological needs, such as loyalty, anxiety, confirmation bias, and emotional attachment.
+4. Neuroscientific research links these concepts to evolutionary traits related to survival, revealing that human cognition is significantly shaped by factors promoting survival on Earth.
+5. The author argues that evidentialism, as currently conceived, fails to account for non-epistemic factors and presents a misleading image of human objectivity and rationality.
+
+Analysis: Alexandre Grand'Pierre challenges the dominant view of evidence-based belief justification (evidentialism) by proposing Universal Epistemic Partiality (UEP), a framework that incorporates both epistemic and non-epistemic influences on human belief formation. He argues that evidentialism overlooks the impact of physiological needs and cognitive processes on reasoning, which is crucial for constructing a sound and relevant normative model of belief justification and rationality.
+------------------------------------------------------------
+
+[2025-06-12T13:32:52.371382]
+Model: mistral
+Prompt (Truncated):
+Summarize the following document in bullet points. Then provide a two-sentence analysis:
+
+Alexandre
+Grand’Pierre
+Political
+Philosophy
+04/22/2024
+Should
+We
+Leave
+Sweatshops
+Be?
+In
+today’ s
+globalized
+market,
+many
+of
+the
+cheap
+goods
+sold
+online
+or
+in
+stores
+are
+the
+product
+of
+sweatshops.
+These
+sweatshops
+are
+often
+criticized
+for
+low
+worker
+wages,
+long
+work
+hours,
+and
+work
+condition
+violations.
+In
+response
+to
+the
+question:
+should
+governments
+regulate
+sweatshops,
+Jessica
+Flanigan
+argues
+that
+regulat...
+Response:
+* Title: Should We Leave Sweatshops Be? by Alexandre Grand'Pierre
+* Published on 04/22/2024
+* Main Argument: Jessica Flanigan argues against regulating sweatshops because it would violate workers' rights.
+* Key Points of the Choice Argument:
+   + Regulations infringe on workers’ right to make informed decisions (minimum wage, maximum hours, workplace health and safety requirements)
+   + These universal standards could unintentionally harm vulnerable members of society.
+   + Example given: an individual who moves into a city with the goal of providing for their family by working as much as they can for four months out of the year would be adversely affected by regulations on maximum work hours and minimum wages.
+* Key Points of the Unacceptable Alternatives Argument:
+   + Imposing regulations to mitigate unagreed occupational conditions benefits all workers because the conditions are unagreed upon. However, many workers in sweatshops agree to the occupational conditions associated with the job.
+   + Flanigan argues it would be impermissible to infringe on workers’ decisions by deciding what is best for them through regulation.
+* The paper aims to reconstruct and evaluate Flanigan's Choice Argument and Unacceptable Alternatives Argument in relation to the issue of sweatshop regulations.
+
+Analysis:
+The author of this document presents Jessica Flanigan's argument against regulating sweatshops, emphasizing that such regulations would infringe on workers' rights to make informed decisions. The argument hinges on the idea that while regulations may aim to address consumer/employee concerns, business concerns, and overall market concerns, they could also unintentionally harm vulnerable members of society. The author also highlights Flanigan's viewpoint that it is impermissible to infringe on workers’ decisions by deciding what is best for them through regulation. However, the argument fails to consider the broader societal impact of sweatshops and the potential long-term harm they may cause to workers due to poor working conditions, low wages, and long work hours. The author's analysis leaves room for debate about whether the short-term economic benefits outweigh the long-term detrimental effects on workers and society as a whole.
+------------------------------------------------------------
+
+[2025-06-12T13:41:58.765546]
+Model: gemma
+Prompt (Truncated):
+Summarize the following document in bullet points. Then provide a two-sentence analysis:
+
+Alexandre and Raphael Grand’Pierre Digital Privilege 05/13/2025 AI Education Policy and the Digital Divide Artificial Intelligence (AI) is becoming a core driver of educational policy and workforce development worldwide. As major powers compete for technological leadership, education systems are emerging as strategic terrain for shaping future labor markets, global influence, and digital infrastructure. Two...
+Response:
+**Summary of the Document:**
+
+- AI is playing a crucial role in educational systems globally, with China and the US taking different approaches in its integration.
+
+
+- China prioritizes a centralized and mandatory approach, while the US emphasizes decentralized partnerships and local governance.
+
+
+**Analysis:**
+
+The contrasting AI education models adopted by China and the US reflect the divergent political and economic ideologies of these two major powers, influencing global education norms and the distribution of digital privileges.
+------------------------------------------------------------
+
+[2025-06-12T14:01:01.456999]
+Model: gemma
+Prompt (Truncated):
+Summarize the following document in bullet points. Then provide a two-sentence analysis:
+
+Alexandre
+Grand’Pierre
+Political
+Philosophy
+04/22/2024
+Should
+We
+Leave
+Sweatshops
+Be?
+In
+today’ s
+globalized
+market,
+many
+of
+the
+cheap
+goods
+sold
+online
+or
+in
+stores
+are
+the
+product
+of
+sweatshops.
+These
+sweatshops
+are
+often
+criticized
+for
+low
+worker
+wages,
+long
+work
+hours,
+and
+work
+condition
+violations.
+In
+response
+to
+the
+question:
+should
+governments
+regulate
+sweatshops,
+Jessica
+Flanigan
+argues
+that
+regulat...
+Response:
+- Alexandre argues that regulating sweatshops violates worker rights because it forces standards onto employers and employees.
+
+
+- Flanigan counters that regulations actually benefit workers by mitigating unagreed-upon occupational conditions.
+------------------------------------------------------------
+
+[2025-06-12T15:54:41.917141]
+Model: llama2
+Prompt (Truncated):
+Summarize the following document in bullet points. Then provide a two-sentence analysis:
+
+Peer Advisor Feedback guide: Hello Max, I am looking to get feedback on the cohesiveness of my argument and if I need to explain my ideas better. Should I also spend more time clarifying Protagoras’s dictum? Lastly, check grammar and if I followed all the instructions. Overall, I enjoyed the prompt and hope I provided enough examples and reasoning for my argument.  Peer Advisor Feedback Summary: Max was ove...
+Response:
+Bullet points summarizing the peer advisor feedback guide:
+
+* Max was overall happy with the essay and agreed that more time should be spent explaining Protagoras' dictum better
+* Alex's argument is cohesive and flows well, but one sentence or two could be added to explain Protagoras' dictum for clarity
+* The examples used are cogent and work well in the context of the SAL
+* Max did not have too many edits, and Alex's organization is good with multiple transition sentences and clear prose
+
+Two-sentence analysis:
+Alex's essay presents a cohesive argument that effectively uses examples to demonstrate the absurdity of the idea of multiple truths. While Max had some minor edits, Alex's overall organization and use of language is strong, making for a well-written and convincing SAL.
+------------------------------------------------------------
+
+[2025-06-12T15:58:58.131233]
+Model: llama2
+Prompt (Truncated):
+Summarize the following document in bullet points. Then provide a two-sentence analysis:
+
+Alexandre
+ 
+Grand’Pierre
+10/27/2022
+Film
+ 
+Narrative
+Abderrahmane
+ 
+Sissako’ s
+ 
+2014
+ 
+film,
+ 
+Timbuktu
+,
+ 
+follows
+ 
+the
+ 
+daily
+ 
+life
+ 
+of
+ 
+a
+ 
+small
+ 
+town
+ 
+and
+ 
+its
+ 
+neighboring
+ 
+inhabitants
+ 
+after
+ 
+a
+ 
+group
+ 
+of
+ 
+Islamic
+ 
+fighters
+ 
+seize
+ 
+control.
+ 
+Throughout
+ 
+the
+ 
+film,
+ 
+themes
+ 
+of
+ 
+conflict
+ 
+between
+ 
+characters
+ 
+and
+ 
+the
+ 
+ways
+ 
+they
+ 
+are
+ 
+resolved,
+ 
+seem
+ 
+to
+ 
+be
+ 
+revis...
+Response:
+Summary: The document describes the film "Timbuktu" directed by Abderrahmane Sissako. The film is set in a small town in Mali and follows the daily life of its inhabitants before and after a group of Islamic fighters seize control. The film explores themes of conflict, control, and resolution through multiple narratives, introducing the audience to the town and its new militant inhabitants. The jihadists have completely upended the normal way of living by enacting strict new rules, speaking different languages, and patrolling the area with large assault rifles at the ready. Early on, the audience is introduced to Kidane, a herdsman, and his lost cow, which seems to set the stage for how the rest of the movie will follow, hinting at themes of fear, control, and death.
+
+Analysis: "Timbuktu" is a film that explores the devastating effects of conflict on innocent civilians in a small town in Mali. Through the use of plot development, camera techniques, and sound immersion, Sissako paints an intricate depiction of Middle Eastern life and the ways conflict is resolved. The film jumps between multiple narratives as it follows the central story of a herdsman named Kidane and his lost cow. It begins with a small truck filled with Islamic fighters chasing after a gazelle, which seems to set the stage for how the rest of the movie will follow, hinting at themes of fear, control, and death. The audience is introduced to the town and its new militant inhabitants, and the jihadists have completely upended the normal way of living by enacting strict new rules, speaking different languages, and patrolling the area with large assault rifles at the ready. Early on, the audience gets a sense that the town is in conflict between the old way of life versus the new, and one of the first scenes depicts a man who is stopped by the jihadists for the length of his pants. He explains that all of his pants are this length and is forced to remove them. This early scene of conflict between the old way of life and the new is resolved relatively calmly, but as the movie progresses, the response to conflict only seems to escalate. A later scene shows a woman receiving public lashings for breaking the rule against making music. The harsh punishment she receives for such a small infraction is met with her defiance, as she sings whilst being beaten. The main plot line follows Kidane and his family, who are introduced as outsiders living on the edge of town away from the new rules of the governing body. Their way of life seems safe from the jihadists, but as tensions rise among the townspeople, conflict is bound to come their way. The film explores themes of fear, control, and resolution through multiple narratives, introducing the audience to the town and its new militant inhabitants.
+------------------------------------------------------------
+
+[2025-06-12T16:07:23.726507]
+Model: deepseek-coder:1.3b
+Prompt (Truncated):
+Summarize the following document in bullet points. Then provide a two-sentence analysis:
+
+Alexandre
+ 
+Grand’Pierre
+ 
+–
+ 
+Poems
+ 
+Concerning
+ 
+Digital
+ 
+Privilege
+ 
+–
+ 
+04/18/2025
+ 
+ 
+ 
+4
+ 
+foundational
+ 
+harms
+ 
+of
+ 
+social
+ 
+media
+ 
+algorithms:
+ 
+(Social
+ 
+Deprivation,
+ 
+Sleep
+ 
+Deprivation,
+ 
+Attention
+ 
+Fragmentation,
+ 
+Addiction)
+ 
+ 
+social
+ 
+media
+ 
+algorithms
+ 
+shape
+ 
+how
+ 
+we
+ 
+think
+ 
+and
+ 
+how
+ 
+we
+ 
+spend
+ 
+our
+ 
+days
+ 
+ 
+they
+ 
+harm
+ 
+us
+ 
+users
+ 
+in
+ 
+the
+ 
+four
+ 
+following
+ 
+ways:
+...
+Response:
+**Summary of the Document (Bulleted):**  
+1. The document focuses on digital privilege and its implications for social media algorithms' shape in how we think, spend our days and what ways to harm users based on four different factors namely Social Deprivation, Sleep Deprivation, Attention Fragmentation & Addiction. 
+2. It then concludes by discussing the impact of these harmful practices upon user experience: up first is social deprivation leading towards a flat interface (scroll but feel alone), next comes sleep deprivation where we sit and lose focus in twilight feeds, attention fragmentation bouncing thought to lossing focus post-to-post which leads into Addiction.
+3. The document then provides details on how users respond based upon these factors leading us towards Homogenization vs Hyper Fragmentation of media using ageism (race lead), sexism and etc in terms related data bias, homogeneity or hyper fragmentation as the difference between them leads to different outcomes but has more accountability.
+4. Finally, it gives an overview about how algorithms can be sorted by demographic data leading us towards 'Age-based isms' (sorting based on age) and a case of sorting media items according color or hair colour for prejudice with the use of race lead as in terms related to sexism.
+5. The document concludes stating that there has been another lawsuit since we’ve updated over air, implying an alternative perspective is out-of-date and needs updating accordingly due to data bias & privacy concerns are prevalent all around us today which leads towards a new era of social media algorithms' shape analysis in terms related user experience.
+------------------------------------------------------------
